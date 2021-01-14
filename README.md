@@ -6,7 +6,8 @@
 
 #### 📖 📝 Bio:
 
-I'm a 20y <strong>Software Engineering</strong> student at University of Brasilia (UnB). Currently, looking forward to a internship.
+I'm a 20y <strong>Software Engineering</strong> student at University of Brasilia (UnB) and **full stack developer**. Currently, I'm looking forward to a internship in a web development company.
+
 I love to solve code challenges - mainly using `Python` and `C/C++`.
 
 #### 🌱 💡 What I am studying :
@@ -20,5 +21,9 @@ I love to solve code challenges - mainly using `Python` and `C/C++`.
 - <a href="https://github.com/kallaway/100-days-of-code" target="_blank">100-Days-of-Code</a>.
 - <a href="https://github.com/joseguilhermefmoura/Modern-Django-Blog" target="_blank">Django Modern Blog</a> and <a href="https://github.com/Nosso-Cafofo" target="_blank">Nosso Cafofo</a>.
 - <a href="https://github.com/joseguilhermefmoura/Py-Check-IO" target="_blank">Pycheckio</a> and <a href="https://github.com/joseguilhermefmoura/Advent-of-Code-2020" target="_blank">Advent of Code</a> problems.
+
+#### 💼 What are my best skills:
+
+- `HTML5`, `CSS3`, `JavaScript`, `JQuery`, `Bootstrap`, `Materialize` and `Django` (`Python`).
 
 ### Read more about my work at <a href="https://joseguilherme.dev/" target="_blank">my personal website</a>.
