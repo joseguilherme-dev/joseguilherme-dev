@@ -6,7 +6,7 @@
 
 #### 📖 📝 Bio:
 
-I'm a 20y <strong>Software Engineering</strong> student at University of Brasilia (UnB) and **full stack developer**. Currently, I'm looking forward to a internship in a web development company.
+I'm a 20y **Software Engineering student** at University of Brasilia (UnB) and **full stack developer**. Currently, I'm a **intern at Federal Police of Brazil**.
 
 I love to solve code challenges - mainly using `Python` and `C/C++`.
 
