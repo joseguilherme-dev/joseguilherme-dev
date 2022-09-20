@@ -11,9 +11,9 @@ I'm a 22yo **Full Stack Developer**.
 I love web and mobile development, both back-end and front-end!
 
 Currently especializing in back-end development around the **TypeScript/JavaScript** ecosystem.<br/>
-Lot of experience using React and Django (Python) to build API's integrated with responsive websites.
-Also worked with ETL systems using scrapping techonologies such as Selenium, Scrapy and BeautifulSoup.
-Love to solve coding challenges! 
+Lot of experience using React and Django (Python) to build API's integrated with responsive websites.<br/>
+Also worked with ETL systems using scrapping techonologies such as Selenium, Scrapy and BeautifulSoup.<br/>
+Love to solve coding challenges!<br/>
 
 #### 🌱 💡 Studying:
 
