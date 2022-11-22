@@ -34,7 +34,7 @@ Love to solve coding challenges!<br/>
   <tbody>
     <tr>
       <td>
-        <a target='_blank' href='panyart.studio'>PanyArt</a>
+        <a target='_blank' href='https://panyart.studio'>PanyArt</a>
       </td>
       <td>
         Digital store (Website + API) for a furry artist. <br/>
@@ -58,7 +58,7 @@ Love to solve coding challenges!<br/>
     </tr>
     <tr>
       <td>
-        <a target='_blank' href='www.bendita.digital'>Bendita Digital</a>
+        <a target='_blank' href='https://www.bendita.digital'>Bendita Digital</a>
       </td>
       <td>
         Modern landing page for a digital design agency.
