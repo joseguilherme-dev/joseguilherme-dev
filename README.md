@@ -1,4 +1,4 @@
-### 🏳️‍🌈👋😄 Hi there, I'm José Guilherme!
+### 🏳️‍🌈👋😄 Hi there, I'm Nova!
 
 <a href="https://dev.to/joseguilhermefmoura/" target="_blank">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"  width=50 alt="José Guilherme 's DEV Profile">
