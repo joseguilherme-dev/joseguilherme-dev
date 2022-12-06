@@ -59,7 +59,7 @@ Love to solve coding challenges!<br/>
         <a target='_blank' href='https://www.bendita.digital'>Bendita Digital</a>
       </td>
       <td>
-        Modern landing page for a digital design agency.
+        Modern landing page for a digital marketing, web and graphical design agency.
       </td>
       <td>
         React, Node, Typescript.
