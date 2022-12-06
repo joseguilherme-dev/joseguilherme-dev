@@ -31,6 +31,17 @@ Love to solve coding challenges!<br/>
   <thead/>
   <tbody>
     <tr>
+      <tr>
+      <td>
+        <a target='_blank' href='https://www.bendita.digital'>Bendita Digital</a>
+      </td>
+      <td>
+        Modern landing page for a digital marketing, web and graphical design agency.
+      </td>
+      <td>
+        React, Node, Typescript.
+      </td>
+    </tr>
       <td>
         <a target='_blank' href='https://panyart.studio'>PanyArt</a>
       </td>
@@ -52,17 +63,6 @@ Love to solve coding challenges!<br/>
       </td>
       <td>
         React, Node, Typescript, Relay, GraphQL, Koa, Turbo.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a target='_blank' href='https://www.bendita.digital'>Bendita Digital</a>
-      </td>
-      <td>
-        Modern landing page for a digital marketing, web and graphical design agency.
-      </td>
-      <td>
-        React, Node, Typescript.
       </td>
     </tr>
   </tbody>
